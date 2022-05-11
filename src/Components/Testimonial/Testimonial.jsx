@@ -44,7 +44,7 @@ const Testimonial = () => {
         </div>
 
         {/* slider */}
-        <div className='t-slider'>
+        
             <Swiper
             
             modules={[Pagination]}
@@ -64,7 +64,6 @@ const Testimonial = () => {
                 })}
 
             </Swiper>
-        </div>
     </div>
   )
 }

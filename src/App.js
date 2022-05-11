@@ -8,6 +8,7 @@ import Portfolio from "./Components/Portfolio/Portfolio";
 import Testimonial from "./Components/Testimonial/Testimonial";
 import Contact from "./Components/Contact/Contact";
 import { Toaster } from "react-hot-toast";
+import Footer from "./Components/Footer/Footer";
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
       <Portfolio></Portfolio>
       <Testimonial></Testimonial>
       <Contact></Contact>
+      <Footer></Footer>
     </div>
   );
 }
