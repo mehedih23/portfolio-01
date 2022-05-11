@@ -1,6 +1,6 @@
 .card{
     width: 10rem;
-    height: 13rem;
+    height: 15rem;
     position: absolute;
     display: flex;
     flex-direction: column;
@@ -22,7 +22,7 @@
 
 .card > img{
     transform: scale(0.6);
-    margin-bottom: -3rem;
+    margin-bottom: -2rem;
 }
 
 .c-button{
